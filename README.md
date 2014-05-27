@@ -29,7 +29,7 @@ or
     gcc -O2 -owordlist2myspell -I. wordlist2myspell.c
 
 
-These will create exacutables myspell2wordlist and wordlist2myspell. When you run the exacutables without any parameter it shows the correct syntax:
+These will create exacutables myspell2wordlist and wordlist2myspell. When you run the exacutables without any parameter they show the correct syntax:
 
     ./myspell2wordlist
     correct syntax is:
