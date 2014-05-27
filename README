@@ -1,0 +1,26 @@
+About
+-----
+
+These utilities are basically conversions of munch/unmunch from the
+official MySpell sources.
+
+They are used to convert MySpell dictionaries to original word lists and the
+other way round.
+
+Build instructions for wordlist2myspell and myspell2wordlist utilities
+----------------------------------------------------------------------
+
+Under Linux:
+
+gcc -O2 -owordlist2myspell -I. wordlist2myspell.c
+
+gcc -O2 -omyspell2wordlist -I. myspell2wordlist.c
+
+
+To see the correct syntax, run
+
+./wordlist2myspell
+
+and
+
+./myspell2wordlist
