@@ -17,8 +17,8 @@ official MySpell sources.
 They are used to convert MySpell dictionaries to original word lists and the
 other way round.
 
-Build instructions for wordlist2myspell and myspell2wordlist utilities
-----------------------------------------------------------------------
+Build instructions
+------------------
 
 Under Linux run the following to create exacutables:
 
